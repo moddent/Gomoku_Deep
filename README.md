@@ -10,7 +10,7 @@
      python human_play.py
 ## Demo
 <p align="left">
-    <img src="/demo/demo1.jpg" width="480" height="600"/>
+    <img src="/demo/demo1.jpg" width="200" height="600"/>
     <img src="/demo/demo2.jpg" width="480" height="600"/>
     <img src="/demo/demo3.jpg" width="480" height="600"/>
     <img src="/demo/demo4.jpg" width="480" height="600"/>
