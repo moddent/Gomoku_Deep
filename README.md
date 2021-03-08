@@ -17,6 +17,7 @@
     <img src="/image/demo5.jpg" width="600" height="480"/>
     <img src="/image/demo6.jpg" width="600" height="480"/>
 </p>
+
 ## Reference
  [AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku)
 ## Requirements
