@@ -1,7 +1,7 @@
 # Gomoku Deep
  NKUST Graduation Project
 ## Training
- Training MobileNet, directly run:
+ Training Policy Value Network, directly run:
  
      python train.py
 ## Play
